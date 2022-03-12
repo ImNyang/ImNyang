@@ -12,4 +12,4 @@ print("I usually use Python.")
 print(Meow, ":", ImNyang)
 ```
 
-깃허브는 잘 활동하지 않아요!
+잔디 안심을래.
